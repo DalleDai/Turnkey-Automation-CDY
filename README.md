@@ -35,7 +35,7 @@ Automate your interactions with Turnkey Wallet using this Python bot.
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/cryptodai3/Turnkey-Automation-CDY.git
+   git clone https://github.com/DalleDai/Turnkey-Automation-CDY.git
     ```
    ```bash
    cd Turnkey-Automation-CDY
